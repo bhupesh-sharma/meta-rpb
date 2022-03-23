@@ -44,6 +44,7 @@ RDEPENDS:packagegroup-rpb-tests-console = "\
     libdrm-tests \
     libgpiod-tools \
     lmbench \
+    lspci \
     ltp \
     mbw \
     net-snmp \
