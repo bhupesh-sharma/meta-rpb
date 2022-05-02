@@ -31,6 +31,7 @@ SUMMARY_packagegroup-rpb-tests-console = "Test apps that can be used in console 
 RDEPENDS_packagegroup-rpb-tests-console = "\
     alsa-utils-alsaucm \
     alsa-utils-speakertest \
+    cmake \
     cpupower \
     crash \
     cryptsetup \
@@ -47,6 +48,7 @@ RDEPENDS_packagegroup-rpb-tests-console = "\
     libhugetlbfs-tests \
     lmbench \
     ltp \
+    make \
     mbw \
     net-snmp \
     s-suite \
